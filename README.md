@@ -9,7 +9,10 @@ Keepers Sack:
 Kann nur durch den Bezahl-Effekt weitergegeben werden, wenn der gebende Spieler am Zug ist
 
 Euthanasia:
-Es zählt das natürliche Würfelergebnis<br />
+Es zählt das natürliche Würfelergebnis
+
+Synthoil:
+Nur die Angriffswürfe des Besitzers dieser Karte werden erhöht<br />
 --------------<br />
 Räume:
 Wenn ein Boss(Seele) stirbt, muss der Raum geändert werden.
