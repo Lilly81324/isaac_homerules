@@ -9,8 +9,8 @@ Keepers Sack:
 Kann nur durch den Bezahl-Effekt weitergegeben werden, wenn der gebende Spieler am Zug ist
 
 Euthanasia:
-Es zählt das natürliche Würfelergebnis
---------------
+Es zählt das natürliche Würfelergebnis<br />
+--------------<br />
 Räume:
 Wenn ein Boss(Seele) stirbt, muss der Raum geändert werden.
 
@@ -20,8 +20,9 @@ Shop:
 Items aus dem Shop kaufen zählt als "Schatz erhalten"
 
 Beute:
-Beginn deines Zuges kommt vor den Beuteschritt
-
+Beginn deines Zuges kommt vor den Beuteschritt<br />
+<br />
+Regeln:------------<br />
 Ende des Zuges Effekte werden auch beim Tod des aktiven Spielers gewirkt. (keine Hausregel, normalr Regel)
 
 Als Reaktion auf einen Wurf, der ein Gegner besiegt, erhält die Person die Belohnungen und Seelen, auch wenn als Reaktion auf den Wurf der Zug beendet wird oder durch einen Monstereffekt der Zug sofort beendet wird
