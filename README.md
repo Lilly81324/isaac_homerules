@@ -1,7 +1,7 @@
 # isaac_homerules
 Homebrew Rules to expand on on the standard ruleset of Isaac: Four Souls
 
-Items:---------------
+Items:---------------<br />
 Abyss:
 Wenn ein Item zerstört werden muss, und du nichts anderes außer Abyss hast, wird Abyss zerstört. Dies bedeutet, dass Abyss einen Marker verliert.
 
