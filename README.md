@@ -12,7 +12,11 @@ Euthanasia:
 Es zählt das natürliche Würfelergebnis
 
 Synthoil:
-Nur die Angriffswürfe des Besitzers dieser Karte werden erhöht<br />
+Nur die Angriffswürfe des Besitzers dieser Karte werden erhöht
+
+Meat!:
+Aufgrund der englishen Formulierung, zählt dies nur für den Besitzer des Items
+<br />
 --------------<br />
 Räume:
 Wenn ein Boss(Seele) stirbt, muss der Raum geändert werden.
