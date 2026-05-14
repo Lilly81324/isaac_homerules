@@ -24,7 +24,7 @@ Wenn ein Boss(Seele) stirbt, muss der Raum geändert werden.
 "Kampfschaden" ist nur beim Angreifen ausgewürfelter Schaden
 
 Shop:
-Items aus dem Shop kaufen zählt als "Schatz erhalten"
+Items aus dem Shop kaufen zählt nicht als "Schatz erhalten"
 
 Beute:
 Beginn deines Zuges kommt vor den Beuteschritt<br />
